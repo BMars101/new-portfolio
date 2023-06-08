@@ -1,0 +1,74 @@
+* {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+}
+.navbar-nav {
+  padding: 30px;
+}
+.nav-link {
+  padding: 20px;
+}
+nav {
+  background-color: #6422b8;
+  color: #dedede;
+}
+.intro-container {
+  text-align: center;
+  color: #ffffff;
+}
+.name {
+  font-family: "Libre Baskerville", serif;
+  font-family: "Square Peg", cursive;
+  font-size: 5em;
+}
+.navbar-toggler {
+  border: 3px solid #dedede;
+}
+.row .col {
+  width: 200px;
+  height: 200px;
+}
+.row > div {
+  font-size: 2em;
+  color: #ffffff;
+}
+.row > a {
+  font-size: 2em;
+  color: #ffffff;
+}
+.row {
+  display: flex;
+  justify-content: center;
+}
+.right {
+  width: 60%;
+}
+
+.left {
+  width: 40%;
+  /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=f2b33e&c2=f77b1b&gt=l&gd=dtl
+*/
+
+  background: #f2b33e;
+  background: linear-gradient(135deg, #f2b33e, #f0ac79);
+}
+#teal {
+  background-color: #00c4cc;
+}
+#pink {
+  background-color: #ff738e;
+}
+#light-purple {
+  background-color: #a548ff;
+}
+#light-orange {
+  background-color: #ffa53b;
+}
+#dark-purple {
+  background-color: #6422b8;
+}
+#yellow {
+  background-color: #ffd93b;
+}
